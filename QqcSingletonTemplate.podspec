@@ -6,7 +6,7 @@ Pod::Spec.new do |s|
   s.requires_arc  = true
 
   s.name         = "QqcSingletonTemplate"
-  s.version      = "1.0.0"
+  s.version      = "1.0.10"
   s.summary      = "QqcSingletonTemplate"
   s.homepage     = "https://github.com/xukiki/QqcSingletonTemplate"
   s.source       = { :git => "https://github.com/xukiki/QqcSingletonTemplate.git", :tag => "#{s.version}" }
